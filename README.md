@@ -14,6 +14,6 @@ Similarly to basketball, in soccer, *distance* (to the goal) is the single most 
 
 The first problem I had to tackle was what to consider *distance to the goal*. Unlike basketball, where the distance is simply the distance to the hoop, in soccer the distance to the goal is relative. Are we considering the shortest distance to any part of the goal? Or the distance to a particular point of it, like the middle? Also it could be interesting a *distance differential* than is parallel to the boxes, this way we could easily divide the signature in more significative areas. I finally went for the model of the right.
 
-![Sample](https://github.com/4ndyparr/shooting-signatures/blob/master/sample_wedge_all_2.png)
+![Sample](https://github.com/4ndyparr/shooting-signatures/blob/master/sample.png)
 
 The signature, for each distance to the goal, represents the goal percentage for the shots within that distance as the *height* of the signature at that distance, and the number of shots as its *width*, with the difference in goal percentage between a particular player and the average (the average goal percentage of all players) represented with a *colormap*. This way, looking at a players' signature you can see in a glimpse the absolute and relative shooting accuracy and the shooting volume of a player across the different distances.
