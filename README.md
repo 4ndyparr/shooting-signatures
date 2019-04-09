@@ -1,5 +1,6 @@
-# shooting-signatures
+# shooting-signatures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/4ndyparr/shooting-signatures/master)
 An at-a-glance view of a soccer shooting performance relative to location
+
 
 ![Signatures Mosaic](https://github.com/4ndyparr/shooting-signatures/blob/master/mosaic_wedge_.png)
 
