@@ -5,7 +5,7 @@ An at-a-glance view of a soccer shooting performance relative to location
 ![Signatures Mosaic](https://github.com/4ndyparr/shooting-signatures/blob/master/mosaic_wedge_.png)
 
 ## about
-Soccer Shooting Signatures is a data visualization project based on the *shooting signatures* developed by **Peter Beshai** for [Buckets](http://buckets.peterbeshai.com), an interactive NBA visualization tool. The idea was to apply the same concept (an at-a-glance view of a shooting performance relative to location) for soccer.
+Soccer Shooting Signatures is a data visualization project based on the basketball *shooting signatures* developed by **Peter Beshai** for [Buckets](http://buckets.peterbeshai.com), an interactive NBA visualization tool. The idea was to apply the same concept (an at-a-glance view of a shooting performance relative to location) for soccer.
 
 ![Tesselation](https://github.com/4ndyparr/shooting-signatures/blob/master/tesselation.png)
 
