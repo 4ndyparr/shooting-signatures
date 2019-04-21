@@ -5,7 +5,7 @@ An at-a-glance view of a soccer shooting performance relative to location
 ![Signatures Mosaic](https://github.com/4ndyparr/shooting-signatures/blob/master/mosaic_wedge_.png)
 
 ## about
-Soccer Shooting Signatures is a data visualization project based on the *shooting signatures* developed by **Peter Beshai** for [Buckets](http://buckets.peterbeshai.com), an interactive NBA visualization tool. The idea was to apply the same concept (an at-a-glance view of a shooting performance relative to location) for soccer.
+Soccer Shooting Signatures is a data visualization project based on the basketball *shooting signatures* developed by **Peter Beshai** for [Buckets](http://buckets.peterbeshai.com), an interactive NBA visualization tool. The idea was to apply the same concept (an at-a-glance view of a shooting performance relative to location) for soccer.
 
 ![Tesselation](https://github.com/4ndyparr/shooting-signatures/blob/master/tesselation.png)
 
@@ -18,3 +18,5 @@ The first problem I had to tackle was what to consider *distance to the goal*. U
 ![Sample](https://github.com/4ndyparr/shooting-signatures/blob/master/sample.png)
 
 The signature, for each distance differential, represents the goal percentage for the shots within that distance as the *height* of the signature at that distance, and the number of shots as its *width*, with the difference in goal percentage between a particular player and the average (the average goal percentage of all players) represented with a *colormap*. This way, looking at a players' signature **you can see in a glimpse the absolute and relative shooting accuracy and the shooting volume of a player across the different distances.**
+
+And that's pretty much it! Try rendering your own signatures opening the notebook with **mybinder** (click in the badge next to the title).
