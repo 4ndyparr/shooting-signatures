@@ -19,4 +19,4 @@ The first problem I had to tackle was what to consider *distance to the goal*. U
 
 The signature, for each distance differential, represents the goal percentage for the shots within that distance as the *height* of the signature at that distance, and the number of shots as its *width*, with the difference in goal percentage between a particular player and the average (the average goal percentage of all players) represented with a *colormap*. This way, looking at a players' signature **you can see in a glimpse the absolute and relative shooting accuracy and the shooting volume of a player across the different distances.**
 
-And that's pretty much it! Try rendering your own signatures opening the notebook with **Binder** at https://mybinder.org/v2/gh/4ndyparr/shooting-signatures/master
+And that's pretty much it! Try rendering your own signatures opening the notebook with **Binder** at https://mybinder.org/v2/gh/4ndyparr/shooting-signatures/master.
