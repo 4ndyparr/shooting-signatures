@@ -13,7 +13,7 @@ Similarly to basketball, in soccer, *distance* (to the goal) is the single most 
 
 ![Sample](https://github.com/4ndyparr/shooting-signatures/blob/master/distance.png)
 
-The first problem I had to tackle was what to consider *distance to the goal*. Unlike basketball, where the distance is simply the distance to the hoop, in soccer the distance to the goal is relative. Are we considering the shortest distance to any part of the goal? Or the distance to a particular point of it, like the middle? Also it could be interesting a *distance differential* than is parallel to the boxes, this way we could easily divide the signature in more significative areas. (I finally went for the model of the right).
+The first problem I had to tackle was what to consider *distance to the goal*. Unlike basketball, where the distance is simply the distance to the hoop, in soccer the distance to the goal is relative. Are we considering the shortest distance to any part of the goal? Or the distance to a particular point of it, like the middle? Also it could be interesting a *distance differential* that is parallel to the boxes, this way we could easily divide the signature in more significative areas. (I finally went for the model of the right).
 
 ![Sample](https://github.com/4ndyparr/shooting-signatures/blob/master/sample.png)
 
